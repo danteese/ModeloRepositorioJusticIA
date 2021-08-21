@@ -2,7 +2,7 @@
 # Titulo de su proyecto
 
 **Nombre del equipo**  
-Datalab
+Datalab ITAM
 
 **Integrantes**
 * Majo Castañeda
