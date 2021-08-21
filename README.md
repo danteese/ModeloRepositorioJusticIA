@@ -2,15 +2,16 @@
 # Titulo de su proyecto
 
 **Nombre del equipo**  
-Equipo N
+Datalab
 
 **Integrantes**
-* Alice
-* Bob
+* Majo Castañeda
+* Dante Bazaldua
+* Valentina Mancera
+* Ivan Zamorano
 
 ## Descripión
-Este es un ejemplo de como deben de crear su repositorio.
-
+Starting point
 
 ## Pipeline
 1. Obtener los datos
