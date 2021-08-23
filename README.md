@@ -28,3 +28,9 @@ Ejecutar el ipynb (el colab)
 
 Los resultados se encuentran en **reto2A.csv** y **reto2B.csv** que son resultado de los datos que nos proporcionaron para evaluar.
 
+Algunos otros colabs que utilizamos para hacer pruebas: 
+
+1. [Obtención de fechas del texto](https://colab.research.google.com/drive/1AE_thuChFMOIuYewi8m8Zx-41jcip9Xj?usp=sharing)
+2. [Tokenización con Spacy](https://colab.research.google.com/drive/1JdXM0ILBmMTaZvrUoOJyBMXEYTVYCXOh?usp=sharing)
+
+
